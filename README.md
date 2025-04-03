@@ -70,6 +70,3 @@ ObjectDetection/
 4. Push to GitHub (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
